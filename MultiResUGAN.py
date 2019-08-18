@@ -337,5 +337,5 @@ combined.compile(loss=['mse','mse','mae','mae','mae','mae'],optimizer=optimizer)
 # In[ ]:
 
 
-train("dogcat",epochs=10, batch_size=4, sample_interval=100)
+train("apple2orange",epochs=20, batch_size=4, sample_interval=100)
 
