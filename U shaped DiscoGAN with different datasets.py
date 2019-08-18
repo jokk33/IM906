@@ -300,6 +300,8 @@ combined.compile(loss=['mse','mse','mae','mae','mae','mae'],optimizer=optimizer)
 
 train("apple2orange",epochs=20, batch_size=1, sample_interval=100)
 
+# just change dataset name,epochs and batch to lead different results 
+
 
 # In[ ]:
 
